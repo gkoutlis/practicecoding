@@ -1,2 +1,2 @@
 # PracticeCoding
-just basic **html** and a chrismas tree in **Python**
+basic-html_and_python-christmas-tree
